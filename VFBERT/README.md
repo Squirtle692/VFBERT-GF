@@ -360,12 +360,4 @@ python SNP.py \
 This would save a `mutations.tsv` file under `save_file_dir`, that contains index of original sequence (in original `dev.tsv`), original sequence and predictions, mutated sequence and predictions, as well as the difference score and log odds ratio of the change in every case.
 
 
-## Q&A
 
-#### 1. I cannot start training the model/I have installation issues for the dependencies.
-
-Please kindly make sure that you satisfied all system requirements for DNABERT, and that you have a conda environment properly set up. We have recently successfully tested our pipeline on Amazon EC2 Deep Learning AMI (Ubuntu 18.04). As an option, you could compare your system/environment setup with this AMI.
-
-#### 2. Can DNABERT run on sequences longer than 512?
-
-#### 3. Can DNABERT be extended to multi-class classification?
