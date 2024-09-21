@@ -11,10 +11,13 @@ Three Virulence Factor datasets are downloaded from [VFDB](http://www.mgc.ac.cn/
 
 ## Pretrain_model
 
-VFBERT, the feature embedding part of VFBERT-GF, is built on [DNABERT](https://github.com/jerryji1993/DNABERT). To run VFBERT-GF, the installation of DNABERT is needed, which could be found at :[https://github.com/jerryji1993/DNABERT].
+VFBERT, the feature embedding part of VFBERT-GF, is built on [DNABERT](https://github.com/jerryji1993/DNABERT). To run VFBERT-GF, the installation of DNABERT is needed, which could be found at :[https://github.com/jerryji1993/DNABERT]. For model training, NVIDIA GPUs with CUDA are recommended.
 The pre-trained weight used in our work is available in [GoogleDrive](https://link-to-google-drive.com).
 
 ---
 
 ## Instructions
 
+- ** Collect DNA feature embedding with pre-trained VFBERT.
+- ** Run downstream classifiers to get outputs. All ouputs are concatenated.
+- ** Fed the concatenated output into meta-model gcForest.
