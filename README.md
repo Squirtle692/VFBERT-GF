@@ -21,3 +21,7 @@ The pre-trained weight used in our work is available in [GoogleDrive](https://li
 - Collect DNA feature embedding with pre-trained VFBERT.
 - Run downstream classifiers to get outputs. 
 - All ouputs are concatenated and fed into meta-model gcForest.
+
+## Data
+
+- Data used to compare different embedding methods- [Train](https://drive.google.com/drive/folders/1QyIiCnCNUSbXTpbPbT9xaW1hWb72JsLD?usp=sharing) and [Test](https://drive.google.com/drive/folders/1RPz6BIoQIHyI2XhXdKTHniecuU5CYTFf?usp=sharing)
