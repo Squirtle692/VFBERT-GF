@@ -24,4 +24,6 @@ The pre-trained weight used in our work is available in [GoogleDrive](https://li
 
 ## Data
 
-- Data used to compare different embedding methods- [Train](https://drive.google.com/drive/folders/1QyIiCnCNUSbXTpbPbT9xaW1hWb72JsLD?usp=sharing) and [Test](https://drive.google.com/drive/folders/1RPz6BIoQIHyI2XhXdKTHniecuU5CYTFf?usp=sharing)
+- Data used to compare different embedding methods - [Train](https://drive.google.com/drive/folders/1QyIiCnCNUSbXTpbPbT9xaW1hWb72JsLD?usp=sharing) and [Test](https://drive.google.com/drive/folders/1RPz6BIoQIHyI2XhXdKTHniecuU5CYTFf?usp=sharing)
+- [Train](https://drive.google.com/drive/folders/14GCsk3wQLw-w2WcLAa5zCaAt206Q2hgd?usp=sharing) and [Test](https://drive.google.com/drive/folders/13q4W6L0gd_ThWj1XnbwZ2-DYy1KnmklH?usp=sharing) with different similarity thresholds
+- Data uesed to compare VFBERT-GF and other SOTA models - [Train](https://drive.google.com/drive/folders/1u8B25J5BIUR1FngwubBp4g859IIFyasn?usp=sharing) and [Test](https://drive.google.com/drive/folders/1EHRh1EiKOOftt_VIw5sY_EVIY9fXlmA2?usp=sharing)
