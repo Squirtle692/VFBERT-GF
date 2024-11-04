@@ -6,7 +6,7 @@
 
 ## Data description
 
-Three Virulence Factor datasets are downloaded from [VFDB](http://www.mgc.ac.cn/VFs/), [Victors](https://phidias.us/victors/) and [BV-BRC](https://www.bv-brc.org/), while Non-Virulence Factors are collected from [DEG](http://origin.tubic.org/deg/public/index.php). 
+Three Virulence Factor datasets are downloaded from [VFDB](http://www.mgc.ac.cn/VFs/), [Victors](https://phidias.us/victors/) and [BV-BRC](https://www.bv-brc.org/), while Non-Virulence Factors are collected from [DEG](http://origin.tubic.org/deg/public/index.php). Additionally, ncDNA data is sourced from [RNAcentral](https://rnacentral.org/).
 
 
 ## Pretrain_model
